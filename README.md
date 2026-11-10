@@ -47,3 +47,5 @@ Outputs: `sentences.csv`, `pauses.csv`, `expected_boundaries.csv`,
 
 If you use these scripts, please credit Ziyan Zou and cite the GitHub release
 corresponding to the version you used.
+
+Zou, Z. (2026). Reading prosody analysis scripts (Version 1.0.0) [Computer software]. https://github.com/Ziyan-ZOU/reading-prosody-scripts/releases/tag/v1.0.0
